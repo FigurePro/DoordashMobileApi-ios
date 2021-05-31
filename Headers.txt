@@ -1,0 +1,12 @@
+Host: identity.doordash.com
+Access-Control-Allow-Origin: *
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+X-XSRF-TOKEN: 96500b0d-7932-48bd-b3ec-1e7059a3d702
+Accept-Language: en-US
+Content-Type: application/json
+Origin: https://identity.doordash.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
+Connection: keep-alive
+Content-Length: 287
+Cookie: ajs_anonymous_id=%222a28c509-8d16-4b55-8d15-4b0766cd0981%22; dd_language=en-US; cf_chl_2=; cf_chl_prog=; cf_clearance=c1616fe5d989627a24d8205cb554b1609248ae81-1622489195-0-250; dd-identity-session-id=daf3ceea-b88e-4d18-9eab-d99c49264eda; XSRF-TOKEN=96500b0d-7932-48bd-b3ec-1e7059a3d702; cf_chl_prog=a9; cf_chl_2=85620374d7cda92; __cf_bm=f6ee1034290056380d3b6cfd5d7cf073c9dab062-1622489167-1800-AcPfUeXhMYqs5of1enD5ItXwq+atRvJVfNFPyMMYHHCAUf4Vj1KGLh/ShXesHwHCr1M/1G2TpML65GjFcUvpzWk=; __cf_bm=ef4584992651c40e8fd25112ebb01cddc0fa5c38-1622489165-1800-AfdIOQ4vd1vA0uGmgGy2puDOEAUXMp1+weid0qM8QxY+TUCo44msvTpPI81D/8O1AW/hUmYH1rRqI3hUeoLvDo4=

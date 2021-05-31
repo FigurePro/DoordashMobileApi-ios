@@ -1,0 +1,10 @@
+{
+  "clientId": "1692922242639331568",
+  "deviceId": "dx_A9A26BE6-E1BD-4F11-9446-12FA8EAB577A",
+  "password": "<PASS>",
+  "redirectUri": "https://www.doordash.com/ios-identity-framework",
+  "responseType": "code",
+  "scope": "*",
+  "state": "sx_E95050F9-56FD-4F2A-A941-E108152F2A3C",
+  "username": "<USER>"
+}
